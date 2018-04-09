@@ -14,7 +14,7 @@ namespace SeleniumTest
         [TestMethod]
         public void TestMethod1()
         {
-            IWebDriver driver = new FirefoxDriver("C:\\Users\\Sem\\Desktop\\GitRepo\\SeleniumTest");
+            IWebDriver driver = new FirefoxDriver("C:\\Users\\Sem\\Desktop\\SEL\\workspace\\testtfs\\SeleniumTest");
             driver.Navigate().GoToUrl("http://www.google.com");
             Thread.Sleep(5000);
             driver.FindElement(By.Name("q")).SendKeys("WTF");
