@@ -16,7 +16,7 @@ namespace SeleniumTest
         {
             IWebDriver driver = new FirefoxDriver("C:\\Drivers");
             driver.Navigate().GoToUrl("http://www.google.com");
-            Thread.Sleep(5000);
+            Thread.Sleep(8000);
             driver.FindElement(By.Name("q")).SendKeys("Jishnu");
             driver.FindElement(By.Name("q")).Submit();
             driver.Quit();
