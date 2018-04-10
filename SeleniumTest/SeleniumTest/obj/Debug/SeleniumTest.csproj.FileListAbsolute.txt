@@ -7,3 +7,14 @@ C:\Users\Sem\Desktop\GitRepo\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.Suppo
 C:\Users\Sem\Desktop\GitRepo\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.csprojResolveAssemblyReference.cache
 C:\Users\Sem\Desktop\GitRepo\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.dll
 C:\Users\Sem\Desktop\GitRepo\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.pdb
+E:\SEl10\Selenium10\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.dll
+E:\SEl10\Selenium10\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.pdb
+E:\SEl10\Selenium10\SeleniumTest\SeleniumTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\SEl10\Selenium10\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.dll
+E:\SEl10\Selenium10\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.Support.dll
+E:\SEl10\Selenium10\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.xml
+E:\SEl10\Selenium10\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.Support.xml
+E:\SEl10\Selenium10\SeleniumTest\SeleniumTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\SEl10\Selenium10\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.csprojResolveAssemblyReference.cache
+E:\SEl10\Selenium10\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.dll
+E:\SEl10\Selenium10\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.pdb
