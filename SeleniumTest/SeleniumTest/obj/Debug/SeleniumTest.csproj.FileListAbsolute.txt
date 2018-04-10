@@ -1,9 +1,0 @@
-C:\Users\Sem\Desktop\GitRepo\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.dll
-C:\Users\Sem\Desktop\GitRepo\SeleniumTest\SeleniumTest\bin\Debug\SeleniumTest.pdb
-C:\Users\Sem\Desktop\GitRepo\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.dll
-C:\Users\Sem\Desktop\GitRepo\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.Support.dll
-C:\Users\Sem\Desktop\GitRepo\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.xml
-C:\Users\Sem\Desktop\GitRepo\SeleniumTest\SeleniumTest\bin\Debug\WebDriver.Support.xml
-C:\Users\Sem\Desktop\GitRepo\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.csprojResolveAssemblyReference.cache
-C:\Users\Sem\Desktop\GitRepo\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.dll
-C:\Users\Sem\Desktop\GitRepo\SeleniumTest\SeleniumTest\obj\Debug\SeleniumTest.pdb
